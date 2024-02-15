@@ -22,7 +22,20 @@ Console.WriteLine("Hello, World!");
 #endregion
 
 #region Task2
-
+int n = 64;
+int quvvet = 1;
+while(n > quvvet)
+{
+    quvvet *= 2;
+}
+if (quvvet==n)
+{
+    Console.WriteLine("2 quvvetidir");
+}
+else
+{
+    Console.WriteLine("2 quvveti deyil");
+}
 #endregion
 
 #region Task3
