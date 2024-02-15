@@ -1,0 +1,14 @@
+C:\Users\Computer\Desktop\SwitchCaseTask\SwitchCaseTask\bin\Debug\net7.0\SwitchCaseTask.exe
+C:\Users\Computer\Desktop\SwitchCaseTask\SwitchCaseTask\bin\Debug\net7.0\SwitchCaseTask.deps.json
+C:\Users\Computer\Desktop\SwitchCaseTask\SwitchCaseTask\bin\Debug\net7.0\SwitchCaseTask.runtimeconfig.json
+C:\Users\Computer\Desktop\SwitchCaseTask\SwitchCaseTask\bin\Debug\net7.0\SwitchCaseTask.dll
+C:\Users\Computer\Desktop\SwitchCaseTask\SwitchCaseTask\bin\Debug\net7.0\SwitchCaseTask.pdb
+C:\Users\Computer\Desktop\SwitchCaseTask\SwitchCaseTask\obj\Debug\net7.0\SwitchCaseTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer\Desktop\SwitchCaseTask\SwitchCaseTask\obj\Debug\net7.0\SwitchCaseTask.AssemblyInfoInputs.cache
+C:\Users\Computer\Desktop\SwitchCaseTask\SwitchCaseTask\obj\Debug\net7.0\SwitchCaseTask.AssemblyInfo.cs
+C:\Users\Computer\Desktop\SwitchCaseTask\SwitchCaseTask\obj\Debug\net7.0\SwitchCaseTask.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\SwitchCaseTask\SwitchCaseTask\obj\Debug\net7.0\SwitchCaseTask.dll
+C:\Users\Computer\Desktop\SwitchCaseTask\SwitchCaseTask\obj\Debug\net7.0\refint\SwitchCaseTask.dll
+C:\Users\Computer\Desktop\SwitchCaseTask\SwitchCaseTask\obj\Debug\net7.0\SwitchCaseTask.pdb
+C:\Users\Computer\Desktop\SwitchCaseTask\SwitchCaseTask\obj\Debug\net7.0\SwitchCaseTask.genruntimeconfig.cache
+C:\Users\Computer\Desktop\SwitchCaseTask\SwitchCaseTask\obj\Debug\net7.0\ref\SwitchCaseTask.dll
